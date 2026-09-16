@@ -1,6 +1,9 @@
 # MedStack
 An object oriented C++ healthcare database management system using custom linked lists, inheritance, and dynamic memory management
 
+Contributers: Ava MacDonald, Courtney Christiano, Ella Noga-Bard
+Under the supervision of Dr. Farzaneh Naghibi
+
 A robust, object oriented C++ database management system designed to track, update, and manage facility patient records. 
 Developed as the final project for Data Structures and Algorithms (ENGM 2283) at Dalhousie University
 
